@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SV&amp;Resources(WE)</string>
+    <string name="enter_the_name_hint">Enter the Name</string>
+    <string name="enter_the_id_hint">enter the id</string>
+    <string name="enter_date_of_birth_hint">Enter date of Birth</string>
+    <string name="enter_the_blood_group_hint">Enter the Blood Group</string>
+    <string name="enter_the_phone_number_hint">Enter the phone Number</string>
+    <string name="enter_state_hint">Enter state</string>
+    <string name="enter_distt_hint">Enter distt</string>
+    <string name="enter_city_hint">enter City</string>
+</resources>
